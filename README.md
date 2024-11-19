@@ -7,7 +7,6 @@
   <li>Proficient in Distributed Systems, Data Structures, and Algorithms</li>
   <li>Experienced with Azure and CI/CD tools</li>
   <li>Over 4 years of experience in software development</li>
-  <li>Passionate about video games 🎮, swimming 🏊🏼, and reading thriller novels 📖</li>
   <li>Favorite quote: <strong>Improvise, Adapt, Overcome</strong></li>
   <li>Cat and dog lover 🐱🐶</li>
   <li>Love trekking and watching movies 🎬</li>
